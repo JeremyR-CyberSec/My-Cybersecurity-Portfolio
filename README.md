@@ -1,2 +1,2 @@
 # My-Cybersecurity-Portfolio
-This will document my journey to showcase my cybersecurity experience
+Hands-on cybersecurity portfolio documenting my labs, projects, skills, and learning roadmap.
