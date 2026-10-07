@@ -1,2 +1,9 @@
-# My-Cybersecurity-Portfolio
-Hands-on cybersecurity portfolio documenting my labs, projects, skills, and learning roadmap.
+Executive summary of who you are
+
+Short overview of your journey
+
+Links to each project repo
+
+Skills summary
+
+Contact info
